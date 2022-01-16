@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo ip link delete docker0 
+
 echo "Initialize Network"
 
 networkinterface=`ip addr show | awk '/inet.*brd/{print $NF; exit}'`
