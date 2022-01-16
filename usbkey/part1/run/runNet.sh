@@ -28,4 +28,6 @@ sleep 2
 
 sudo brctl show
 
+ip a
+
 echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf >/dev/null
