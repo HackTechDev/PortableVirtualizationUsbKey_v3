@@ -1,6 +1,17 @@
 #!/bin/bash
 
+
+echo "Remove Docker network interface"
+
 sudo ip link delete docker0 
+
+echo "Remove all iptable rules"
+
+#sudo sysctl -w net.ipv4.ip_forward=1
+#sudo iptables -t nat -F
+#sudo iptables -t mangle -F
+#sudo iptables -F
+#sudo iptables -X
 
 echo "Initialize Network"
 
