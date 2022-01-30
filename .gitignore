@@ -1,2 +1,6 @@
-usbkey/part1/host/lubuntu/18.04/64/qemu/6.2.0/
-usbkey/part2/guest/lxle/20.04/64/doom/vd/vda.qcow2
+usbkey/part1/host/lubuntu/1804/64/qemu/620/
+usbkey/part2/guest/lxle/2004/64/doom/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/doom/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/rpg/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/crossfire/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/queke/vd/vda.qcow2
