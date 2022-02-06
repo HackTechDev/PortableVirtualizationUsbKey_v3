@@ -4,3 +4,5 @@ usbkey/part2/guest/lubuntu/2004/64/doom/vd/vda.qcow2
 usbkey/part2/guest/lubuntu/2004/64/rpg/vd/vda.qcow2
 usbkey/part2/guest/lubuntu/2004/64/crossfire/vd/vda.qcow2
 usbkey/part2/guest/lubuntu/2004/64/quake/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/game/vd/vda.qcow2
+usbkey/part2/guest/lubuntu/2004/64/game/vd/*.iso
